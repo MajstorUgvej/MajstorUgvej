@@ -2,5 +2,5 @@
 Ulicna skola
 
 ## Currently Learning
-App dev
-Handstand pushup
+- App dev
+- Handstand pushup
